@@ -22,7 +22,6 @@ func STRMETHOD2(strArr []string) string {
 			if len(str) == 0 {
 				return ""
 			}
-
 		}
 
 	}
